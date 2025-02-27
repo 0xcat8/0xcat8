@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @0xcat8
-- My name is Daniel Krupnik
+- 👋 Hi, I’m @0xcat8 My name is Daniel Krupnik
 
 - 👀 I’m interested in
-- Writing plugins for CS1.6
-- 
-- 🌱 I’m currently learning
-- PHP/CSS/HTML/JS
+Writing plugins for CS1.6
+
+- 🌱 I’m currently learning PHP/CSS/HTML/JS
 
 
 <!---
